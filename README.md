@@ -1,3 +1,2 @@
 # java-demo
-java 相关学习
-哈哈哈哈哈哈哈
+java 相关学习笔记
