@@ -1,0 +1,10 @@
+1.Spring 核心概念 
+IOC 控制反转 （new对象的权利由使用者改为spring创建 spring要想使用IOC创建对象 必须要用到DI）
+DI  依赖注入 （给new出来的对象设置成员变量）
+AOP 给项目中的业务代码增强的一种途径。 （AOP的实现: a.spring aop b.AspectJ c.spring整合AspectJ）
+BOP 面向Bean的编程 在spring中一切都是针对bean进行编程和设计
+	##Bean被Spring通过IOC和DI进行创建和管理
+	##Bean被Spring通过AOP进行功能增强
+	##Bean其实就是对应bean标签和@Bean注解的类
+基础容器 IOC容器 BeanFactory接口
+高级容器
